@@ -4,10 +4,10 @@ import Form from "./components/Form";
 import Header from "./components/Header";
 import ToDoList from "./components/ToDoList";
 
-import ToDoRoute from "./routes/ToDoRoute";
+/* import ToDoRoute from "./routes/ToDoRoute";
 import HabitsRoute from "./routes/HabitsRoute";
 import HomeRoute from "./routes/HomeRoute";
-import NotFound from "./routes/Notfound";
+import NotFound from "./routes/Notfound"; */
 
 import "./App.css";
 
